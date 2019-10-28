@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/portofolio/static/css/main.aa946a39.chunk.css",
-    "main.js": "/portofolio/static/js/main.18cba8c7.chunk.js",
-    "main.js.map": "/portofolio/static/js/main.18cba8c7.chunk.js.map",
+    "main.js": "/portofolio/static/js/main.376fabb3.chunk.js",
+    "main.js.map": "/portofolio/static/js/main.376fabb3.chunk.js.map",
     "runtime-main.js": "/portofolio/static/js/runtime-main.2e9fb04c.js",
     "runtime-main.js.map": "/portofolio/static/js/runtime-main.2e9fb04c.js.map",
-    "static/js/2.4c03ac18.chunk.js": "/portofolio/static/js/2.4c03ac18.chunk.js",
-    "static/js/2.4c03ac18.chunk.js.map": "/portofolio/static/js/2.4c03ac18.chunk.js.map",
+    "static/js/2.9da032de.chunk.js": "/portofolio/static/js/2.9da032de.chunk.js",
+    "static/js/2.9da032de.chunk.js.map": "/portofolio/static/js/2.9da032de.chunk.js.map",
     "index.html": "/portofolio/index.html",
-    "precache-manifest.e4ff7f14e780704fa717637c984b9b37.js": "/portofolio/precache-manifest.e4ff7f14e780704fa717637c984b9b37.js",
+    "precache-manifest.fe12f4951fc9812047b5974ec176cd19.js": "/portofolio/precache-manifest.fe12f4951fc9812047b5974ec176cd19.js",
     "service-worker.js": "/portofolio/service-worker.js",
     "static/css/main.aa946a39.chunk.css.map": "/portofolio/static/css/main.aa946a39.chunk.css.map",
+    "static/media/persollogo.png": "/portofolio/static/media/persollogo.19df7905.png",
     "static/media/ractjs.png": "/portofolio/static/media/ractjs.580ffd26.png",
     "static/media/rb.png": "/portofolio/static/media/rb.ab90f0df.png",
     "static/media/wp.png": "/portofolio/static/media/wp.fa6246e6.png"

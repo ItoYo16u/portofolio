@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "700e799aa041db06110f2e814f1ee20a",
+    "revision": "b7175a81d5ff89161f126e3dff7674bd",
     "url": "/portofolio/index.html"
   },
   {
-    "revision": "8c2d9d1882ccf0f838bf",
+    "revision": "0f0e084b1ff01fcd1cb9",
     "url": "/portofolio/static/css/main.aa946a39.chunk.css"
   },
   {
-    "revision": "e312b47dfcc4047c4b89",
-    "url": "/portofolio/static/js/2.4c03ac18.chunk.js"
+    "revision": "e9d3a8ccf756f9228ecb",
+    "url": "/portofolio/static/js/2.9da032de.chunk.js"
   },
   {
-    "revision": "8c2d9d1882ccf0f838bf",
-    "url": "/portofolio/static/js/main.18cba8c7.chunk.js"
+    "revision": "0f0e084b1ff01fcd1cb9",
+    "url": "/portofolio/static/js/main.376fabb3.chunk.js"
   },
   {
     "revision": "316a40a210bf87b2d344",
     "url": "/portofolio/static/js/runtime-main.2e9fb04c.js"
+  },
+  {
+    "revision": "19df7905d13fd94c3983bcfa202aa36d",
+    "url": "/portofolio/static/media/persollogo.19df7905.png"
   },
   {
     "revision": "580ffd26ccaa16481ed87c1829c74943",
