@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/portofolio/static/css/main.aa946a39.chunk.css",
-    "main.js": "/portofolio/static/js/main.e8fafc66.chunk.js",
-    "main.js.map": "/portofolio/static/js/main.e8fafc66.chunk.js.map",
+    "main.css": "/portofolio/static/css/main.cff64a22.chunk.css",
+    "main.js": "/portofolio/static/js/main.37dd45cd.chunk.js",
+    "main.js.map": "/portofolio/static/js/main.37dd45cd.chunk.js.map",
     "runtime-main.js": "/portofolio/static/js/runtime-main.2e9fb04c.js",
     "runtime-main.js.map": "/portofolio/static/js/runtime-main.2e9fb04c.js.map",
-    "static/js/2.c3f4d249.chunk.js": "/portofolio/static/js/2.c3f4d249.chunk.js",
-    "static/js/2.c3f4d249.chunk.js.map": "/portofolio/static/js/2.c3f4d249.chunk.js.map",
+    "static/js/2.3f24d982.chunk.js": "/portofolio/static/js/2.3f24d982.chunk.js",
+    "static/js/2.3f24d982.chunk.js.map": "/portofolio/static/js/2.3f24d982.chunk.js.map",
     "index.html": "/portofolio/index.html",
-    "precache-manifest.95ea5ac6bf7b375e26b3b5526106c546.js": "/portofolio/precache-manifest.95ea5ac6bf7b375e26b3b5526106c546.js",
+    "precache-manifest.7775c00f2a72ec4e4973d05abc544981.js": "/portofolio/precache-manifest.7775c00f2a72ec4e4973d05abc544981.js",
     "service-worker.js": "/portofolio/service-worker.js",
-    "static/css/main.aa946a39.chunk.css.map": "/portofolio/static/css/main.aa946a39.chunk.css.map",
+    "static/css/main.cff64a22.chunk.css.map": "/portofolio/static/css/main.cff64a22.chunk.css.map",
     "static/media/ckpd.png": "/portofolio/static/media/ckpd.a8d45300.png",
     "static/media/persollogo.png": "/portofolio/static/media/persollogo.19df7905.png",
     "static/media/ractjs.png": "/portofolio/static/media/ractjs.580ffd26.png",
     "static/media/rb.png": "/portofolio/static/media/rb.ab90f0df.png",
+    "static/media/recruiticon.jpg": "/portofolio/static/media/recruiticon.4b735af6.jpg",
     "static/media/wp.png": "/portofolio/static/media/wp.fa6246e6.png"
   }
 }
